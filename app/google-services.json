@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "799769298126",
+    "project_id": "instagram-clone-7ff52",
+    "storage_bucket": "instagram-clone-7ff52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799769298126:android:badfe6cd343626115b3c9f",
+        "android_client_info": {
+          "package_name": "com.neatroots.instagramclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_eBF7-qFSGmUimO7BlBgr4xbrwrQ2F4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799769298126:android:1b7e6952b44771a35b3c9f",
+        "android_client_info": {
+          "package_name": "com.unisphere.collegeconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_eBF7-qFSGmUimO7BlBgr4xbrwrQ2F4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
